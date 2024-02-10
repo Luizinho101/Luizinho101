@@ -7,7 +7,7 @@
 - 👯 Estudo também tecnologias Front-End
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizinho101&show_icons=true&theme=transparent)
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizinho101&show_icons=true&theme=transparent)
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Luiz" height="30" width="40"
